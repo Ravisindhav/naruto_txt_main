@@ -2,7 +2,7 @@ import os
 
 class Config(object):
     # Telegram Bot ka token
-    BOT_TOKEN = "7691272055:AAEb2cq9_G3JKWrpq5NKSlXI6wEF1CLj4tc"
+    BOT_TOKEN = "8283404521:AAELEabS0a06o6-NbbOnNJ5jgrckTu5TsN4"
     # Telegram API ki ID
     API_ID = 27660379
     API_HASH = "19c71c27733f0954371085198855125a"
@@ -24,7 +24,7 @@ class Config(object):
     # Channel ka link
     CH_URL = "https://t.me/ravi1996sindhav"
     # Bot ke owner ka Telegram link
-    OWNER = "https://t.me/username"
+    OWNER = "5459854363"
     # Thumbnail image ka URL
     THUMB_URL = "https://telegra.ph/file/example-thumb-image.jpg" #Replace by with your Thumb URL
     PREMIUM_LOGS = "-1002761572365"
