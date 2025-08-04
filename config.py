@@ -1,5 +1,8 @@
 import os
 
+# ✅ PREMIUM_LOGS ko class ke bahar rakho
+PREMIUM_LOGS = [5459854363]
+
 class Config(object):
     # Telegram Bot ka token
     BOT_TOKEN = "8284448380:AAHRSVe9wHsso9Ldvb33_8adnpknsKH-xNw"
@@ -26,6 +29,4 @@ class Config(object):
     # Bot ke owner ka Telegram link
     OWNER = "5459854363"
     # Thumbnail image ka URL
-    THUMB_URL = "https://telegra.ph/file/example-thumb-image.jpg" #Replace by with your Thumb URL
-    PREMIUM_LOGS = [5459854363]
-    
+    THUMB_URL = "https://telegra.ph/file/example-thumb-image.jpg"  # Replace with your Thumb URL
